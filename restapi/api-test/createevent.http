@@ -1,0 +1,9 @@
+post http://localhost:8080/events HTTP/1.1
+Content-Type: application/json  
+Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoaWQiOjIsImVtYWlsIjoiY3JlYXRldXNlcjFAZ21haWwuY29tIiwiZXhwIjoxNzE5NTg0MTA0fQ.aVi7Y2UjApJIb0BNogQWPAt3gkrjYSuiXiwW8T6BxbA
+{
+	"Name":       "getting",
+	"Description": "getting to know about",
+	"Location":    "rajamahl indore",
+	"Datetime":    "2025-01-01T15:30:00.000Z"
+}

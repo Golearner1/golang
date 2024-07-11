@@ -1,0 +1,9 @@
+put http://localhost:8080/events/1
+Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoaWQiOjIsImVtYWlsIjoiY3JlYXRldXNlcjFAZ21haWwuY29tIiwiZXhwIjoxNzE5NTg0MTA0fQ.aVi7Y2UjApJIb0BNogQWPAt3gkrjYSuiXiwW8T6BxbA
+
+{
+    "name": "updatedname",
+    "description":"getting to know about",
+    "location":"mumbai",
+    "datetime":"2025-01-01T15:30:00Z"
+}

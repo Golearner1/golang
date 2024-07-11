@@ -1,0 +1,2 @@
+DELETE  HTTP://localhost:808/events/1/register
+Authorization: 

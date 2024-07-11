@@ -1,0 +1,3 @@
+ebt:0.0
+ eat:0.0
+ ratio:NaN
